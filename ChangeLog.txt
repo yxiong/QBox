@@ -1,0 +1,4 @@
+Feb 09, 2014 (v0.1) ---
+  Basic operations (Hamilton product, reciprocal, etc.) for quaternion.
+  Rotation using quaternion.
+  Convert between quaternion and rotation matrix.
